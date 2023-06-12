@@ -25,9 +25,9 @@ Goal: I like sports. My favorite sports are baseball. I will be appreciate if yo
 
 # List of Hobby
 1. Darts
-2. Table Tennis
-3.
-4.
+2. Basketball
+3. Soccer
+4. Table Tennis
 5.
 6.
 7.
