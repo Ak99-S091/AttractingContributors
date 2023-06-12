@@ -40,3 +40,6 @@ Anonymous
 
 ### 4. Bad artists always admire each other’s work.
 Anonymous
+
+### 5.  Once you stop learning, you start dying.
+Alber Einstein
