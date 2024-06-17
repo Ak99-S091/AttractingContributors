@@ -27,12 +27,10 @@ Goal: I like sports. My favorite sports are baseball. I will be appreciate if yo
 1. Darts
 2. Basketball
 3. Soccer
-4. Table Tennis
-5.
-6.
-7.
-8.
-9.
-10.
-
-
+4. Running
+5. Tennis
+6. Baseball
+7. Soccer
+8. Table tennis
+9. Rugby
+10. Running
